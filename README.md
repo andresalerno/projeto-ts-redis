@@ -101,20 +101,20 @@ Para a realização do teste com o `postman` você deve seguir os seguintes pass
 
 a) Método POST
 
-<img src="../projeto-ts-redis-2/img/post.png" alt="Logo do Projeto" width="800" />
+<img src="./img/post.png" alt="Logo do Projeto" width="800" />
 
 b) Método GET
 
-<img src="../projeto-ts-redis-2/img/get.png" alt="Logo do Projeto" width="800" />
+<img src="./img/get.png" alt="Logo do Projeto" width="800" />
 
 c) Método GEST (specific)
 
-<img src="../projeto-ts-redis-2/img/get-specific.png" alt="Logo do Projeto" width="800" />
+<img src="./img/get-specific.png" alt="Logo do Projeto" width="800" />
 
 d) Método PATCH
 
-<img src="../projeto-ts-redis-2/img/patch.png" alt="Logo do Projeto" width="800" />
+<img src="./img/patch.png" alt="Logo do Projeto" width="800" />
 
 e) Método DELETE
 
-<img src="../projeto-ts-redis-2/img/delete.png" alt="Logo do Projeto" width="800" />
+<img src="./img/delete.png" alt="Logo do Projeto" width="800" />
